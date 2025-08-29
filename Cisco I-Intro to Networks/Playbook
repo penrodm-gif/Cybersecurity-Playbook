@@ -1,5 +1,0 @@
-Network Fundamentals
----
-Use star topology when you want something easy to set up and fix—everything connects to one central point (like spokes on a wheel). If one device breaks, the rest still work. Use mesh topology when you need super reliable connections—every device talks to every other one, so even if something fails, the network keeps going. It’s more complex and expensive, but great for critical systems.
-As for gear: switches are like traffic cops inside a building—they help devices talk to each other locally. Routers are like border control—they connect different networks and send data out to the internet. Switch = local. Router = global.
-
