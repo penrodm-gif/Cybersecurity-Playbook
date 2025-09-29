@@ -5,7 +5,7 @@ Regulators on both sides of the Atlantic are pressing Apple and Google to rein i
 advertising and open up their mobile ecosystems. In Europe, the Digital Markets Act (DMA) and Digital
 Services Act (DSA) now shape how “gatekeepers” run app stores, track users, and serve ads. The
 DMA compels platform changes (e.g., alternative app stores and payments), and has already forced
-Apple to alter iOS in the EU—while Apple argues the rules slow feature rollouts and raise
+Apple to alter iOS in the EU while Apple argues the rules slow feature rollouts and raise
 security/privacy risks. Regardless of Apple’s objections, the DMA’s aim is to curb gatekeeper power
 and reduce data driven lock in, with real enforcement and fines.
 The DSA adds platform wide duties around transparency, risk assessments, and limits on targeted ads
