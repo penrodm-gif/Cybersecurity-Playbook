@@ -9,7 +9,7 @@ Apple to alter iOS in the EU while Apple argues the rules slow feature rollouts 
 security/privacy risks. Regardless of Apple’s objections, the DMA’s aim is to curb gatekeeper power
 and reduce data driven lock in, with real enforcement and fines.
 The DSA adds platform wide duties around transparency, risk assessments, and limits on targeted ads
-to minors and based on sensitive data—important guardrails for the ad tech ecosystem that profits from
+to minors and based on sensitive data important guardrails for the ad tech ecosystem that profits from
 behavioral profiling on mobile. Together, DMA/DSA move the market toward less opaque tracking and
 more user control, with the EU Commission actively enforcing.
 In the U.S., there is still no comprehensive federal privacy law. Federal activity is piecemeal: the FTC
@@ -23,7 +23,7 @@ Privacy Act goes further by requiring recognition of Global Privacy Control (GPC
 browser level “do not sell or target me” opt out legally binding, a practical protection for everyday users.
 Competition regulators are also reshaping ad tech. The UK CMA extracted commitments from Google
 to ensure its Privacy Sandbox changes (the post cookie ad stack that will interact with
-Android/Chrome) don’t simply entrench Google’s position—important because design choices at the
+Android/Chrome) don’t simply entrench Google’s position important because design choices at the
 browser/OS level can either reduce tracking or just repoint it. Recent CMA reporting continues to
 scrutinize effectiveness and market impacts.
 Are current rules adequate? Partly. The EU framework is the closest to comprehensive: it constrains
@@ -47,5 +47,5 @@ federal floor that preserves stronger state protections.
 Bottom line: The law is finally catching up—especially in the EU and in several U.S. states—but mobile
 users are still too exposed to cross app profiling and manipulative consent flows. Regulators should
 make MAIDs opt in by default, universal opt out signals mandatory everywhere, and privacy preserving
-ad systems independently auditable. With those steps—plus a real federal baseline in the
-U.S.—smartphones can remain innovative while sharply reducing surveillance risks for everyday users.
+ad systems independently auditable. With those steps plus a real federal baseline in the
+U.S. smartphones can remain innovative while sharply reducing surveillance risks for everyday users.
